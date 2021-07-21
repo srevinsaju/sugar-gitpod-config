@@ -1,0 +1,4 @@
+image: docker pull ghcr.io/srevinsaju/sugar-docker:master
+
+ports:
+  - port: 6080
